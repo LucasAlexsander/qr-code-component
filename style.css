@@ -12,11 +12,13 @@ p {
     font-size: 15px;
     font-weight: 500;
     opacity: .8;
+    color: #848790;
 }
 
 h2 {
     font-size: 23px;
     font-weight: 700;
+    color: #292E41;
 }
 
 body {
